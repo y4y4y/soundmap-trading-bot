@@ -1,0 +1,5 @@
+{
+  "auth": "auth token",
+  "cf_cookie": "cloudflare cookie",
+  "discord_webhook_url": "hook url"
+}
